@@ -20,7 +20,7 @@
   <img src=https://64.media.tumblr.com/086c179150870cd084bc0a08174102cd/4f587184a2dd70ee-b6/s400x600/8cce9293c1b2b3c680eca830b6f66d218f926dc2.pnj width="70%" max-width="300" />
 </div>
       <div align="center"
-      <p> MADE BY <a href="https://github.com/fuxisword">@wakashion</a> #SHAMELESSPLUG</p>
+      <p> MADE BY <a href="https://github.com/wakashion">@wakashion</a> #SHAMELESSPLUG</p>
       </div>
 <br/>
     </td>
